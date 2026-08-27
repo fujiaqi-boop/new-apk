@@ -1,12 +1,12 @@
-{
-    "versionCode":  29,
-    "versionName":  "0.10.4",
-    "apkUrl":  "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.4/shikosyn-pe-v0.10.4-debug.apk",
-    "apkUrlMirrors":  [
-                          "https://gitee.com/FujiaQishiwo/shikosyn-publish/attach_files/3106320/download",
-                          "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.4/shikosyn-pe-v0.10.4-debug.apk",
-                          "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.4/shikosyn-pe-v0.10.4-debug.apk"
-                      ],
-    "releaseNotes":  "v0.10.4 测试版：验证 Gitee/GitHub 双通道检查更新与下载。",
-    "minVersionCode":  1
+﻿{
+  "versionCode": 29,
+  "versionName": "0.10.4",
+  "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.4/shikosyn-pe-v0.10.4-debug.apk",
+  "apkUrlMirrors": [
+    "https://gitee.com/FujiaQishiwo/shikosyn-publish/attach_files/3106320/download",
+    "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.4/shikosyn-pe-v0.10.4-debug.apk",
+    "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.4/shikosyn-pe-v0.10.4-debug.apk"
+  ],
+  "releaseNotes": "v0.10.4 测试版：验证 Gitee/GitHub 双通道检查更新与下载。",
+  "minVersionCode": 1
 }
