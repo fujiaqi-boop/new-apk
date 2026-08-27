@@ -1,0 +1,8 @@
+{
+  "versionCode": 25,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.0/shikosyn-pe-v0.10.0-debug.apk",
+  "apkUrlMirrors": [],
+  "releaseNotes": "v0.10.0：应用内检查更新、表图导出排版优化、Monitor 设备滚轮等。",
+  "minVersionCode": 1
+}

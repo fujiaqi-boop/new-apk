@@ -1,0 +1,48 @@
+SHIKOSYN PE 软件发布许可协议
+SHIKOSYN PE Software Distribution License
+
+Copyright (c) 2026 fujiaqi-boop. All Rights Reserved.
+版权所有 (c) 2026 fujiaqi-boop。保留所有权利。
+
+本仓库（https://github.com/fujiaqi-boop/new-apk）及其中的全部内容，包括但不限于
+Android 安装包（APK）、update.json、文档与元数据（合称「发布物」），均为
+SHIKOSYN 创面综合疗愈系统患者端（SHIKOSYN PE）之官方发布渠道，受著作权法及
+相关国际条约保护。
+
+一、授权范围
+  1. 您仅可在持有合法授权的前提下，通过 SHIKOSYN PE 应用内「检查更新」功能，
+     或本仓库 GitHub Releases 页面，下载并安装发布物，用于个人或非商业性的
+     官方监测用途。
+  2. 除上述明示授权外，未给予任何其他权利。
+
+二、禁止行为（未经著作权人书面许可，严禁）
+  1. 复制、再分发、转售、出租、出借或以任何形式传播 APK 或本仓库发布物；
+  2. 修改、反编译、反汇编、逆向工程、破解或基于发布物衍生作品；
+  3. 移除、篡改或伪造版本信息、数字签名、版权声明或品牌标识；
+  4. 将发布物嵌入其他应用、ROM、工具包或第三方应用商店；
+  5. 冒用 SHIKOSYN 名称、标识或声称与官方存在未获授权的合作关系；
+  6. 利用发布物从事违法活动或损害用户安全、隐私之行为。
+
+三、商标
+  「SHIKOSYN」及相关图形、产品名称均为权利人商标或商业标识。未经书面许可，
+  不得使用。
+
+四、免责声明
+  发布物按「现状」提供。在法律允许的最大范围内，著作权人不就使用发布物
+  导致的任何直接或间接损失承担责任。本软件为辅助监测工具，不能替代专业
+  医疗诊断。
+
+五、侵权处理
+  如发现未经授权的转载、镜像或盗用，权利人保留追究民事、行政及刑事责任的
+  权利，并有权向 GitHub 及相关平台提交 DMCA / 侵权投诉。
+
+六、联系方式
+  授权咨询、侵权举报请通过 GitHub Issues（本仓库）或项目维护者指定渠道联系。
+
+---
+
+By accessing, downloading, or using any Release Materials from this repository,
+you agree to be bound by this License. If you do not agree, do not download or
+use the Materials.
+
+Official repository: https://github.com/fujiaqi-boop/new-apk
