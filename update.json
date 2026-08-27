@@ -1,8 +1,8 @@
-﻿{
-  "versionCode": 31,
-  "versionName": "0.10.6",
-  "apkUrl": "https://gitee.com/FujiaQishiwo/shikosyn-publish/attach_files/3106413/download",
+{
+  "versionCode": 32,
+  "versionName": "0.10.7",
+  "apkUrl": "https://gitee.com/FujiaQishiwo/shikosyn-publish/attach_files/3106438/download",
   "apkUrlMirrors": [],
-  "releaseNotes": "v0.10.6：修复 Gitee manifest BOM/API 解析，检查更新更稳定。",
+  "releaseNotes": "v0.10.7 测试版：验证 Gitee 检查更新与下载流程。",
   "minVersionCode": 1
 }
