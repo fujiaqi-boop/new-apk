@@ -1,4 +1,4 @@
-﻿{
+{
     "versionCode":  28,
     "versionName":  "0.10.3",
     "apkUrl":  "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
@@ -7,6 +7,6 @@
                           "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
                           "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk"
                       ],
-    "releaseNotes":  "v0.10.3：Gitee 镜像仓改为 FujiaQishiwo/shikosyn-publish，国内检查更新可用。",
+    "releaseNotes":  "v0.10.3：Gitee 镜像 FujiaQishiwo/shikosyn-publish，国内检查更新可用。",
     "minVersionCode":  1
 }
