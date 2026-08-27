@@ -1,8 +1,11 @@
 {
-  "versionCode": 25,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.0/shikosyn-pe-v0.10.0-debug.apk",
-  "apkUrlMirrors": [],
-  "releaseNotes": "v0.10.0：应用内检查更新、表图导出排版优化、Monitor 设备滚轮等。",
+  "versionCode": 26,
+  "versionName": "0.10.1",
+  "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.1/shikosyn-pe-v0.10.1-debug.apk",
+  "apkUrlMirrors": [
+    "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.1/shikosyn-pe-v0.10.1-debug.apk",
+    "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.1/shikosyn-pe-v0.10.1-debug.apk"
+  ],
+  "releaseNotes": "v0.10.1：修复国内网络检查更新失败（443），自动尝试 jsDelivr 等镜像。",
   "minVersionCode": 1
 }
