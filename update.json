@@ -2,8 +2,8 @@
   "versionCode": 28,
   "versionName": "0.10.3",
   "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
-  "apkUrlMirrors": [
-    "https://gitee.com/FujiaQishiwo/shikosyn-publish/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
+    "apkUrlMirrors": [
+    "https://gitee.com/FujiaQishiwo/shikosyn-publish/raw/master/apk/shikosyn-pe-v0.10.3-debug.apk",
     "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
     "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk"
   ],
