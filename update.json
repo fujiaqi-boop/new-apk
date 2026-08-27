@@ -1,12 +1,12 @@
 {
-  "versionCode": 27,
-  "versionName": "0.10.2",
-  "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.2/shikosyn-pe-v0.10.2-debug.apk",
+  "versionCode": 28,
+  "versionName": "0.10.3",
+  "apkUrl": "https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
   "apkUrlMirrors": [
-    "https://gitee.com/fujiaqi-boop/new-apk/releases/download/v0.10.2/shikosyn-pe-v0.10.2-debug.apk",
-    "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.2/shikosyn-pe-v0.10.2-debug.apk",
-    "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.2/shikosyn-pe-v0.10.2-debug.apk"
+    "https://gitee.com/FujiaQishiwo/shikosyn-publish/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
+    "https://ghproxy.com/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk",
+    "https://ghps.cc/https://github.com/fujiaqi-boop/new-apk/releases/download/v0.10.3/shikosyn-pe-v0.10.3-debug.apk"
   ],
-  "releaseNotes": "v0.10.2：新增 Gitee 国内镜像（manifest + APK），修复 GitHub 443 检查更新失败。",
+  "releaseNotes": "v0.10.3：Gitee 镜像仓改为 FujiaQishiwo/shikosyn-publish，国内检查更新可用。",
   "minVersionCode": 1
 }
